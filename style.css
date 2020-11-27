@@ -1,0 +1,37 @@
+#mike{
+  width: 30% ;
+  border-radius: 100px ;
+}
+body{
+  text-align: center ; 
+  background: linear-gradient(peachpuff,lightgray) ;
+  background-repeat: no-repeat ;
+}
+#menu{
+    list-style: none ;
+    position: fixed ;
+    top: 0 ;
+    right: 0 ;
+    left: 0 ;
+    padding: 10px ;
+    margin: 0 ;
+}
+h1{
+    font-family: 'Pompiere', cursive;
+    font-size: 25px ;
+}
+li{
+    display: inline ;
+    padding: 3px ;
+    font-size: 18px ;
+}
+li:hover{
+    display: inline ;
+    padding: 3px ;
+    font-size: 18px ;
+    background-color: peachpuff;
+    font-family: 'Recursive', sans-serif;
+}
+ul {
+  background-color: lightgray ;
+}
