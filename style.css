@@ -30,8 +30,18 @@ li:hover{
     padding: 3px ;
     font-size: 18px ;
     background-color: peachpuff;
-    font-family: 'Recursive', sans-serif;
 }
 ul {
-  background-color: lightgray ;
+    background-color: lightgray ;
+    font-family: 'Recursive', sans-serif ;
+}
+.line{
+    height: 3px ;
+    width: 125px ;
+    background-color: black ;
+    margin: auto ;
+    margin-bottom: 10px ;
+}
+html{
+    scroll-behavior: smooth ;
 }
