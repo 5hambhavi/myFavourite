@@ -45,3 +45,11 @@ ul {
 html{
     scroll-behavior: smooth ;
 }
+#img1{
+    width: 40% ;
+    transition: transform .2s ;
+    border: 10px solid grey ;
+}
+#img1:hover{
+    transform: scale(0.9) ;
+}
